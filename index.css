@@ -17,11 +17,14 @@ nav ul{
 
 nav li{
     padding: 8px 10px 8px 8px;
+    width: 85px;
 }
 
 a{
     color: black;
     text-decoration:none;
+    font-weight: 500;
+    font-size: 20px;
 }
 
 a:hover, a:active{
@@ -29,8 +32,9 @@ color: gray;
 }
 
 .main-title{
-    font-size: 50px;
+    font-size: 70px;
     margin: 0px;
+    width: 700px;
 }
 
 .btn {
@@ -39,6 +43,7 @@ color: gray;
     color: white;
     padding: 10px;
     height: 20px;
+    text-align: center;
 }
 
 .btn-green{
@@ -63,6 +68,7 @@ color: gray;
 .container{
     margin-top: 100px;
     margin-bottom: 100px;
+    padding: 0 50px 0 50px;
 }
 
 .secondary-title{
